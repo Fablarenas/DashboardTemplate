@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\TestingAppQa",
-    "\\TestingAppQa\\Controllers"
+    "\\TestingAppQa\\Views",
+    "\\TestingAppQa\\Views\\Scopes"
   ],
-  "SelectedNode": "\\TestingAppQa\\Controllers\\UserHistoriesController.cs",
+  "SelectedNode": "\\TestingAppQa\\Views\\Scopes\\Edit.cshtml",
   "PreviewInSolutionExplorer": false
 }

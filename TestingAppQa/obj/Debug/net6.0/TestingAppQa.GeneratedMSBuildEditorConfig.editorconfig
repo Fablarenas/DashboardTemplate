@@ -1,0 +1,405 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TestingAppQa
+build_property.RootNamespace = TestingAppQa
+build_property.ProjectDir = C:\Users\Asus\Source\Repos\proyectoMiguel\TestingAppQa\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Source\Repos\proyectoMiguel\TestingAppQa
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/ConsolidationReports/ActualizarEstadoExistoso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc29saWRhdGlvblJlcG9ydHNcQWN0dWFsaXphckVzdGFkb0V4aXN0b3NvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/ConsolidationReports/AssignDeveloperConfirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc29saWRhdGlvblJlcG9ydHNcQXNzaWduRGV2ZWxvcGVyQ29uZmlybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/ConsolidationReports/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc29saWRhdGlvblJlcG9ydHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/ConsolidationReports/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc29saWRhdGlvblJlcG9ydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/ConsolidationReports/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc29saWRhdGlvblJlcG9ydHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/ConsolidationReports/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc29saWRhdGlvblJlcG9ydHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/ConsolidationReports/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc29saWRhdGlvblJlcG9ydHNcRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/ConsolidationReports/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc29saWRhdGlvblJlcG9ydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Metrics/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0cmljc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Metrics/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0cmljc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Metrics/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0cmljc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Metrics/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0cmljc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Metrics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0cmljc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Projects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Projects/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Projects/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Projects/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Projects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Projects/Invite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcSW52aXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Projects/PermisosExistentes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcUGVybWlzb3NFeGlzdGVudGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Projects/SeleccionarProyecto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcU2VsZWNjaW9uYXJQcm95ZWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Projects/UsuarioExistentes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcVXN1YXJpb0V4aXN0ZW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Risks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlza3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Risks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlza3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Risks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlza3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Risks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlza3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Risks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlza3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Risks/SeleccionarProyecto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlza3NcU2VsZWNjaW9uYXJQcm95ZWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Scopes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NvcGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Scopes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NvcGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Scopes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NvcGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Scopes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NvcGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Scopes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NvcGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Sprints/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByaW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Sprints/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByaW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Sprints/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByaW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Sprints/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByaW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Sprints/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByaW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Sprints/Invite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByaW50c1xJbnZpdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Sprints/SeleccionarProyecto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByaW50c1xTZWxlY2Npb25hclByb3llY3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TaskReview/ActualizarEstado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1Jldmlld1xBY3R1YWxpemFyRXN0YWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TaskReview/Change.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1Jldmlld1xDaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TaskReview/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1Jldmlld1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TaskReview/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1Jldmlld1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TaskReview/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1Jldmlld1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TaskReview/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1Jldmlld1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TaskReview/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1Jldmlld1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TaskReview/UsuarioExistentes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1Jldmlld1xVc3VhcmlvRXhpc3RlbnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TestCases/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdENhc2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TestCases/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdENhc2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TestCases/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdENhc2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TestCases/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdENhc2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TestCases/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdENhc2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TimeOuts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZU91dHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TimeOuts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZU91dHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TimeOuts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZU91dHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TimeOuts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZU91dHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TimeOuts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZU91dHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/TimeOuts/SeleccionarProyecto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZU91dHNcU2VsZWNjaW9uYXJQcm95ZWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Tools/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9vbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Tools/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9vbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Tools/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9vbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Tools/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9vbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Tools/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9vbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/Tools/SeleccionarProyecto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9vbHNcU2VsZWNjaW9uYXJQcm95ZWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistoriesTestType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1Rlc3RUeXBlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistoriesTestType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1Rlc3RUeXBlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistoriesTestType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1Rlc3RUeXBlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistoriesTestType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1Rlc3RUeXBlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistoriesTestType/EditTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1Rlc3RUeXBlXEVkaXRUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistoriesTestType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1Rlc3RUeXBlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/UserHistories/SeleccionarProyecto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckhpc3Rvcmllc1xTZWxlY2Npb25hclByb3llY3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Source/Repos/proyectoMiguel/TestingAppQa/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
